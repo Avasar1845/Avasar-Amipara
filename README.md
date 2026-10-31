@@ -14,7 +14,6 @@ House Price Prediction is an AI and Machine Learning project designed to predict
 - Pandas
 - NumPy
 - AI Model
-
 ## How to Run
 
 1. Install Python on your computer.
