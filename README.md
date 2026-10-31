@@ -36,7 +36,7 @@ House Price Prediction is an AI and Machine Learning project designed to predict
 --------------------------------------------------
        Data set
 --------------------------------------------------
-
+1000 Data in this project
 --------------------------------------------------
        Understanding Dataset
 --------------------------------------------------
